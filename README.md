@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hamza Rasool
 
-<!--
-**MrHamzaDeveloper/MrHamzaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer based in Pakistan. I work with 
+Django, Next.js, FastAPI, and AWS — mostly building 
+SaaS platforms and web products independently.
 
-Here are some ideas to get you started:
+Most of my repos are private since they contain 
+client work and live business code. Happy to share 
+access directly if you want to see specific projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few things I've built:
+
+- **BizFawz.com** — UK and US company formation 
+  platform with a GPT-4o pricing assistant, 
+  Companies House XML automation, and AWS deployment
+- **Travel booking platform** — Amadeus API 
+  integration for a UK travel agency
+- **Multi-tool utility platform** — handled 1,000+ 
+  concurrent sessions at peak
+
+Portfolio: hamzarasool.com  
+Email: hire@hamzarasool.com
